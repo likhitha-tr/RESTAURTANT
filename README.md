@@ -18,7 +18,7 @@ Welcome to the Restaurant Project! This is a simple web application for showcasi
 ## Screenshots
 
 ![Screenshot 1](https://github.com/likhitha-tr/RESTAURTANT/blob/main/WEB%201.jpg)
-![Screenshot 2]()
+![Screenshot 2](https://github.com/likhitha-tr/RESTAURTANT/blob/main/WEB%202.jpg)
 
 
 ## How to Use
