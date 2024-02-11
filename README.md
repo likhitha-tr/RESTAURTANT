@@ -15,6 +15,12 @@ Welcome to the Restaurant Project! This is a simple web application for showcasi
 - CSS
 - JavaScript
 
+## Screenshots
+
+![Screenshot 1](https://github.com/Nithingowda16/UPDATES/blob/main/PORTFOLIO%202.jpg)
+![Screenshot 2](https://github.com/Nithingowda16/UPDATES/blob/main/PORTFOLIO%203.jpg)
+
+
 ## How to Use
 
 1. Clone this repository to your local machine:
@@ -22,7 +28,6 @@ Welcome to the Restaurant Project! This is a simple web application for showcasi
 git clone https://github.com/your-username/restaurant-project.git
 
 2. Navigate to the project directory:
-
 
 3. Open `index.html` in your preferred web browser to view the website.
 
